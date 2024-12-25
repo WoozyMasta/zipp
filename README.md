@@ -33,5 +33,5 @@ if err != nil {
 
 ## Other archive packages
 
-* [https://github.com/WoozyMasta/tgz](TGZ Package) -
+* [TGZ Package](https://github.com/WoozyMasta/tgz) -
   simple way to create and extract tar.gz archives
